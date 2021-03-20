@@ -3,3 +3,4 @@ An Informative app educating users about the COVID-19 virus and offering volunte
 
 Figma URL - https://www.figma.com/file/A9xfssuDq1y3brtf0xVYxK/Covid-Aware_2
 
+App Video URL - https://www.youtube.com/watch?v=T5cqdNUPIAU
